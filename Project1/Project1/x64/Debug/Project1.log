@@ -1,0 +1,15 @@
+﻿  Source.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\HP\source\repos\Project1\Project1\Source.cpp(107,17): warning C4101: 'wantedID': unreferenced local variable
+C:\Users\HP\source\repos\Project1\Project1\Source.cpp(215,17): warning C4101: 'wantedID': unreferenced local variable
+C:\Users\HP\source\repos\Project1\Project1\Source.cpp(376,10): warning C4101: 'l': unreferenced local variable
+C:\Users\HP\source\repos\Project1\Project1\Source.cpp(411,20): warning C4101: 'choice': unreferenced local variable
+C:\Users\HP\source\repos\Project1\Project1\Source.cpp(410,10): warning C4101: 'l': unreferenced local variable
+C:\Users\HP\source\repos\Project1\Project1\Source.cpp(507,24): warning C4101: 'choice': unreferenced local variable
+C:\Users\HP\source\repos\Project1\Project1\Source.cpp(575,20): warning C4101: 'choice': unreferenced local variable
+C:\Users\HP\source\repos\Project1\Project1\Source.cpp(638,20): warning C4101: 'choice': unreferenced local variable
+C:\Users\HP\source\repos\Project1\Project1\Source.cpp(637,10): warning C4101: 'l': unreferenced local variable
+C:\Users\HP\source\repos\Project1\Project1\Source.cpp(760,20): warning C4101: 'choice': unreferenced local variable
+C:\Users\HP\source\repos\Project1\Project1\Source.cpp(759,10): warning C4101: 'l': unreferenced local variable
+C:\Users\HP\source\repos\Project1\Project1\Source.cpp(118): warning C4715: 'User::checkid': not all control paths return a value
+  Project1.vcxproj -> C:\Users\HP\source\repos\Project1\x64\Debug\Project1.exe
